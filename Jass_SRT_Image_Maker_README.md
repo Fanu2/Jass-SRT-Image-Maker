@@ -1,3 +1,5 @@
+<img width="1811" height="977" alt="image" src="https://github.com/user-attachments/assets/42393ce1-48b6-4e6f-839f-9e1bc5c7c0b7" />
+
 # Jass SRT Image Maker
 
 **Version 1.0.1**
